@@ -1,6 +1,6 @@
 package main
 
-import "envdiff/cmd"
+import "github.com/harshitsinghal13/envdiff/cmd"
 
 func main() {
     cmd.Execute()
